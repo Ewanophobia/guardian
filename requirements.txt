@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+unicodecsv
+tqdm
+git+https://github.com/ro-py/ro.py.git
